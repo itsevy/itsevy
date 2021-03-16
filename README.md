@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @itsevy
+- 👀 I’m interested in music, anime and movies
+- 🌱 I’m currently learning C#, HTML and CSS, PHP, C, Xamarin
